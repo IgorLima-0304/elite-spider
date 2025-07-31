@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 **EliteSpider** é um crawler inteligente para testes de penetração web, projetado para mapear aplicações e identificar vulnerabilidades comuns automaticamente.
+Feito para estudo em segurança da informação.
 
 ## 🚀 Funcionalidades
 
